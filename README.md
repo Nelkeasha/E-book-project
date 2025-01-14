@@ -43,7 +43,7 @@ The E-Book project is a full-stack web application built using the MERN stack. T
 4. Set up the environment variables:
    - Create a `.env` file in the backend directory with the following variables:
      ```env
-     MONGO_URI=<your_mongo_connection_string>DB_URL = 'mongodb+srv://nelkeasha5:zXuFIgUrOfOf6POL@cluster0.ld2xn.mongodb.net/book-store?retryWrites=true&w=majority&appName=Cluster0'
+     DB_URL = 'mongodb+srv://nelkeasha5:zXuFIgUrOfOf6POL@cluster0.ld2xn.mongodb.net/book-store?retryWrites=true&w=majority&appName=Cluster0'
      JWT_SECRET_KEY = '8bfcbd41017b6f5632c312e1b1cb0ec05960634694a8f0778ce40e22160a28de905cf0161306d682325ca41d02a106ad737e12759b19152b5d620f32cab1baa0'
      ```
     
